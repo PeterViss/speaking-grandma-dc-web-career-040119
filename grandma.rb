@@ -2,7 +2,8 @@ def speak_to_grandma(phrase)
   if
     puts "#{phrase}"
   else
-    puts "HUH?! SPEAK UP, SONNY!" # Write a speak_to_grandma method.
+    puts "HUH?! SPEAK UP, SONNY!"
+  end # Write a speak_to_grandma method.
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
